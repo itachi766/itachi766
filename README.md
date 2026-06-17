@@ -5,7 +5,7 @@
 </p>
 
 🖊️ I currently created Lexa
-👨‍💻 All of my projects are available at https://github.com/nasa-py
+👨‍💻 All of my projects are available at https://github.com/itachi766
 💬 Ask me about Python, HTML, CSS, MySQL, Git
 
 
